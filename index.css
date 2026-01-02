@@ -327,13 +327,13 @@ section {
   width: 90%;
 }
 .progress-line.css span {
-  width: 60%;
+  width: 80%;
 }
 .progress-line.JavaScript span {
   width: 85%;
 }
 .progress-line.GitHub span {
-  width: 50%;
+  width: 82%;
 }
 .progress-line.Bootstrap span {
   width: 75%;
@@ -356,13 +356,13 @@ section {
   content: "90%";
 }
 .progress-line.css span::after {
-  content: "60%";
+  content: "80%";
 }
 .progress-line.JavaScript span::after {
   content: "85%";
 }
 .progress-line.GitHub span::after {
-  content: "50%";
+  content: "82%";
 }
 .progress-line.Bootstrap span::after {
   content: "75%";
